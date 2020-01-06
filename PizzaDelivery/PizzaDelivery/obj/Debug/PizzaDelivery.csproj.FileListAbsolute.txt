@@ -1,0 +1,11 @@
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\PizzaDelivery.exe.config
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\PizzaDelivery.exe
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\PizzaDelivery.pdb
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.Form1.resources
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.Properties.Resources.resources
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.exe
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.pdb
+C:\Users\MClumsy_G20\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\PizzaDelivery.Resource1.resources

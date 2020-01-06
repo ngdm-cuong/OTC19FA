@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\MClumsy_G20\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MClumsy_G20\\Source\\Workspaces\\Workspace\\CIS151\\SportsExtend\\SportsExtend\\SportsExtend.csproj",
+      "projectName": "SportsExtend",
+      "projectPath": "C:\\Users\\MClumsy_G20\\Source\\Workspaces\\Workspace\\CIS151\\SportsExtend\\SportsExtend\\SportsExtend.csproj",
+      "packagesPath": "C:\\Users\\MClumsy_G20\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MClumsy_G20\\Source\\Workspaces\\Workspace\\CIS151\\SportsExtend\\SportsExtend\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MClumsy_G20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}
